@@ -1,8 +1,0 @@
-{
-    "code-runner.runInTerminal": true,
-    "files.associations": {
-        "stdio.h": "c",
-        "stdlib.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
